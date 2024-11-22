@@ -1,6 +1,4 @@
-# Regress-o-Linear-e-Multipla
-
-# Regressão Linear em Python
+# Regressao-Linear-e-Multipla
 
 Este repositório apresenta a implementação de modelos de regressão linear simples e múltipla utilizando Python. O projeto inclui a análise das relações entre variáveis e a criação de um modelo estatístico preditivo.
 
